@@ -1,0 +1,27 @@
+anaconda website
+	Download python 3.7
+
+Create virtual environment from Anconda Navigator (Environment)
+
+Check Versions of packages:
+	conda list
+	conda -V
+	python -V
+	
+
+Install packages in venv
+	{Anaconda prompt>} activate opencv
+	conda -V	
+	python -V
+	pip install numpy scipy matplotlib scikit-learn jupyter
+	pip install opencv-contrib-python
+conda install -c anaconda pandas
+
+install tensorflow & keras using navigator
+
+	
+
+Python idle:
+	anaconda prompt
+	activate <venv>
+	<venv> python -m idlelib.idle <filename>
